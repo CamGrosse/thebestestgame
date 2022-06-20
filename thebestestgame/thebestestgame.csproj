@@ -95,5 +95,41 @@
   <ItemGroup>
     <None Include="Resources\rock.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adasdsadadasd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eartahse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goodmissle.2 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gun.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hl2_Rebel-Ragdoll485-573931361 %281%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9mm Glock 17-SoundBible.com-1873916083.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grenade Explosion-SoundBible.com-2100581469.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descending_craft-Sonidor-991848481.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UFO_Takeoff-Sonidor-1604321570.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

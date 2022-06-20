@@ -61,12 +61,97 @@ namespace thebestestgame.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _9mm_Glock_17_SoundBible_com_1873916083 {
+            get {
+                return ResourceManager.GetStream("_9mm_Glock_17_SoundBible_com_1873916083", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream descending_craft_Sonidor_991848481 {
+            get {
+                return ResourceManager.GetStream("descending_craft_Sonidor_991848481", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap missle {
+        internal static System.Drawing.Bitmap eartahse {
             get {
-                object obj = ResourceManager.GetObject("missle", resourceCulture);
+                object obj = ResourceManager.GetObject("eartahse", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap goodmissle_2__2_ {
+            get {
+                object obj = ResourceManager.GetObject("goodmissle_2__2_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Grenade_Explosion_SoundBible_com_2100581469 {
+            get {
+                return ResourceManager.GetStream("Grenade_Explosion_SoundBible_com_2100581469", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream gun {
+            get {
+                return ResourceManager.GetStream("gun", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap heart_1 {
+            get {
+                object obj = ResourceManager.GetObject("heart_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap heart_2 {
+            get {
+                object obj = ResourceManager.GetObject("heart_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap heart_3 {
+            get {
+                object obj = ResourceManager.GetObject("heart_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Hl2_Rebel_Ragdoll485_573931361__1_ {
+            get {
+                return ResourceManager.GetStream("Hl2_Rebel_Ragdoll485_573931361__1_", resourceCulture);
             }
         }
         
@@ -87,6 +172,15 @@ namespace thebestestgame.Properties {
             get {
                 object obj = ResourceManager.GetObject("rock", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream UFO_Takeoff_Sonidor_1604321570 {
+            get {
+                return ResourceManager.GetStream("UFO_Takeoff_Sonidor_1604321570", resourceCulture);
             }
         }
     }
